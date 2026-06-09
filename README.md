@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive personal portfolio website built to showcase my academic projects, technical skills, and software development journey. The website is officially hosted on **GitHub Pages**.
 
- **Live Demo:** [https://amirnazmi-git.github.io/personal-blog-portfolio/](https://amirnazmi-git.github.io/personal-blog-portfolio/)
+ **Live Demo:** [https://amirnazmi-gif.github.io/personal-blog-portfolio/](https://amirnazmi-gif.github.io/personal-blog-portfolio/)
 
 ---
 
@@ -72,4 +72,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/amirnazmi-git/personal-blog-portfolio.git](https://github.com/amirnazmi-git/personal-blog-portfolio.git)
+   git clone [https://github.com/amirnazmi-gif/personal-blog-portfolio.git](https://github.com/amirnazmi-gif/personal-blog-portfolio.git)
